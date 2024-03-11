@@ -29,11 +29,11 @@
 |:------------------:|:------------------:|
 | [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Back) | [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Front) |
 | `2023.03-2023.04` <br/> 플라스크와 크롤링(스크래퍼)를 활용한 웹사이트 제작 | `2023.01-2023.02` <br/> AI 동물 닮은꼴 미니 웹제작 및 nelify 배포 |
-| [![KakaoTalk_Photo_2024-03-10-23-20-34 002](https://github.com/bbak0105/bbak0105/assets/66405572/c0776f94-7a5c-4d93-9f3f-863c63b9cc29)](https://github.com/bbak0105/Flask_Scrapping_Web) | [![ai_animal](https://github.com/bbak0105/bbak0105/assets/66405572/da7dc2a2-9d29-4c9a-8cb2-05f92e9b7112)](https://github.com/bbak0105/AI_Animal_Web) |
+| <a href="https://github.com/bbak0105/Flask_Scrapping_Web"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/c0776f94-7a5c-4d93-9f3f-863c63b9cc29" alt="KakaoTalk_Photo_2024-03-10-23-20-34 002" height="300px"></a> | <a href="https://github.com/bbak0105/AI_Animal_Web"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/da7dc2a2-9d29-4c9a-8cb2-05f92e9b7112" alt="ai_animal" height="300px" width="480px"></a> |
 | `2022.03-2022.03` <br/> 영화 사이트 리액트 클론 코딩  | `2022.03-2022.04` <br/> Firebase를 이용한 소셜 로그인 리액트 클론 코딩 |
-|   |   |
-| `2020.08-2020.11` <br/> 꽃 배송 ERP 웹 사이트 개발 |  |
-|   |   |
+| <a href="https://github.com/bbak0105/Clone_Movie_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/e07d3d91-d919-4b4a-9b0c-a11a6baff346" alt="movie_clone" height="300px"></a> | <a href="https://github.com/bbak0105/Clone_Twitter_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/3c63d53e-ed1c-4098-b624-a618d9a95da9" alt="twitter_clone" height="300px" width="480px"></a> |
+| `2020.08-2020.11` <br/> 꽃 배송 ERP 웹 사이트 개발 |   |
+| <a href="https://github.com/bbak0105/Final_Study_Project"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/07e60119-92db-4e27-80b9-e46548b002ac" alt="blooming" height="300px" width="450px"></a> | |
 
 
 <br>

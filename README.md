@@ -2,7 +2,7 @@
   
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Ji_Yu%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Introduce%20Ji_Yu's%20Portfolio%&descAlign=60&descAlignY=50)
 
-<h3 align="center">🤖 Techs: </h3>
+<h3 align="center">💻 Techs 💻</h3>
 <p align="center">
 
 | Category              | Advanced                                                                                                                   | Experienced                                                                                                  |
@@ -18,7 +18,7 @@
 <hr>
 
 <h3 align="center">
-  Projects:
+  Team Projects
   <br/>
   <u>👇 사진을 클릭하면 레포지토리로 이동합니다👇 </u>
 </h3>
@@ -30,17 +30,29 @@
 | [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Back) | [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Front) |
 | `2023.03-2023.04` <br/> 플라스크와 크롤링(스크래퍼)를 활용한 웹사이트 제작 | `2023.01-2023.02` <br/> AI 동물 닮은꼴 미니 웹제작 및 nelify 배포 |
 | <a href="https://github.com/bbak0105/Flask_Scrapping_Web"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/c0776f94-7a5c-4d93-9f3f-863c63b9cc29" alt="KakaoTalk_Photo_2024-03-10-23-20-34 002" height="250px"></a> | <a href="https://github.com/bbak0105/AI_Animal_Web"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/da7dc2a2-9d29-4c9a-8cb2-05f92e9b7112" alt="ai_animal" height="250px" width="300px"></a> |
-| `2022.03-2022.03` <br/> 영화 사이트 리액트 클론 코딩  | `2022.03-2022.04` <br/> Firebase를 이용한 소셜 로그인 리액트 클론 코딩 |
-| <a href="https://github.com/bbak0105/Clone_Movie_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/e07d3d91-d919-4b4a-9b0c-a11a6baff346" alt="movie_clone" height="250px"></a> | <a href="https://github.com/bbak0105/Clone_Twitter_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/3c63d53e-ed1c-4098-b624-a618d9a95da9" alt="twitter_clone" height="250px" width="400px"></a> |
 | `2020.08-2020.11` <br/> 꽃 배송 ERP 웹 사이트 개발 |   |
 | <a href="https://github.com/bbak0105/Final_Study_Project"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/07e60119-92db-4e27-80b9-e46548b002ac" alt="blooming" height="250px" width="400px"></a> | |
 
+<br/>
+<hr/>
 
-<br>
+<h3 align="center">
+  Study Self
+  <br/>
+  <u>👇 사진을 클릭하면 레포지토리로 이동합니다👇 </u>
+</h3>
+
+<br/>
+
+| `2023.03-2023.06` <br/> LSTM을 활용한 재고 관리 웹 사이트 제작 <br/> (Front-End) | `2023.03-2023.06` <br/> LSTM을 활용한 재고 관리 웹 사이트 제작  <br/> (Back-End)|
+|:------------------:|:------------------:|
+| [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Back) | [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Front) |
+| `2022.03-2022.03` <br/> 영화 사이트 리액트 클론 코딩 | `2022.03-2022.04` <br/> Firebase를 이용한 소셜 로그인 리액트 클론 코딩 |
+| <a href="https://github.com/bbak0105/Clone_Movie_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/e07d3d91-d919-4b4a-9b0c-a11a6baff346" alt="movie_clone" height="250px"></a> | <a href="https://github.com/bbak0105/Clone_Twitter_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/3c63d53e-ed1c-4098-b624-a618d9a95da9" alt="twitter_clone" height="250px" width="400px"></a> |
+
+<br/>
 <hr>
 
-  <h3 align="center">👨🏻‍💻 Github Info:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbak0105&layout=compact"/>
-
-
+<h3 align="center">👨🏻‍💻 Github Info 👩🏻‍💻</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbak0105&layout=compact"/>
 </div>

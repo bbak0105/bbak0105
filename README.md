@@ -50,9 +50,4 @@
 | `2022.03-2022.03` <br/> 영화 사이트 리액트 클론 코딩 | `2022.03-2022.04` <br/> Firebase를 이용한 소셜 로그인 리액트 클론 코딩 |
 | <a href="https://github.com/bbak0105/Clone_Movie_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/e07d3d91-d919-4b4a-9b0c-a11a6baff346" alt="movie_clone" height="250px"></a> | <a href="https://github.com/bbak0105/Clone_Twitter_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/3c63d53e-ed1c-4098-b624-a618d9a95da9" alt="twitter_clone" height="250px" width="400px"></a> |
 
-<br/>
-<hr>
-
-<h3 align="center">👨🏻‍💻 Github Info 👩🏻‍💻</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbak0105&layout=compact"/>
 </div>

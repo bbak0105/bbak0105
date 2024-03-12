@@ -27,7 +27,7 @@
 
 | `2023.03-2023.06` <br/> LSTM을 활용한 재고 관리 웹 사이트 제작 <br/> (Front-End) | `2023.03-2023.06` <br/> LSTM을 활용한 재고 관리 웹 사이트 제작  <br/> (Back-End)|
 |:------------------:|:------------------:|
-| [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Back) | [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Front) |
+| [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Front) | [![310715430-1d1423ee-e0a9-4a93-8072-aee69b1b261b](https://github.com/bbak0105/bbak0105/assets/66405572/6989afe3-51f4-49ad-a994-5b7ed5f68652)](https://github.com/bbak0105/AI_Project_Back) |
 | `2023.03-2023.04` <br/> 플라스크와 크롤링(스크래퍼)를 활용한 웹사이트 제작 | `2023.01-2023.02` <br/> AI 동물 닮은꼴 미니 웹제작 및 nelify 배포 |
 | <a href="https://github.com/bbak0105/Flask_Scrapping_Web"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/c0776f94-7a5c-4d93-9f3f-863c63b9cc29" alt="KakaoTalk_Photo_2024-03-10-23-20-34 002"></a> | <a href="https://github.com/bbak0105/AI_Animal_Web"><img width="1434" alt="스크린샷 2024-03-12 오후 12 36 51" src="https://github.com/bbak0105/bbak0105/assets/66405572/88987e0e-4b53-42d2-9d06-1f010bd95c86"></a> |
 | `2020.08-2020.11` <br/> MVC 모델을 기반으로 Spring Framewok을 활용한 <br/> ERP 웹 사이트 제작 |   |

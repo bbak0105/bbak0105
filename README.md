@@ -51,10 +51,10 @@
 
 <br/>
 
-| `2023.04-현재` <br/> 운영중인 코딩 스터디에 유용하게 사용되고자 만든 코드 및 컨텐츠 | `2022.03-2023.08` <br/> 서강대학원 AI MBA에 재학하며 했던 과제물 |
+| `2022.03-2023.08` <br/> 서강대학원 AI MBA에 재학하며 했던 과제물 | `2022.03-2022.03` <br/> 영화 사이트 리액트 클론 코딩 |
 |:------------------:|:------------------:|
-| <a href="https://github.com/bbak0105/Coding_Study"><img width="627" alt="스크린샷 2024-03-12 오전 12 23 41" src="https://github.com/bbak0105/bbak0105/assets/66405572/c871222f-4fcf-4bcb-a62b-d0a8a77f764c"></a> | <a href="https://github.com/bbak0105/Sogang_Task"><img width="644" alt="스크린샷 2024-03-12 오전 12 17 59" src="https://github.com/bbak0105/bbak0105/assets/66405572/15474bd0-8797-4a41-b843-2fedd3fa41aa"></a> |
-| `2022.03-2022.03` <br/> 영화 사이트 리액트 클론 코딩 | `2022.03-2022.04` <br/> Firebase를 이용한 소셜 로그인 리액트 클론 코딩 |
-| <a href="https://github.com/bbak0105/Clone_Movie_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/e07d3d91-d919-4b4a-9b0c-a11a6baff346" alt="movie_clone" height="250px"></a> | <a href="https://github.com/bbak0105/Clone_Twitter_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/3c63d53e-ed1c-4098-b624-a618d9a95da9" alt="twitter_clone" height="250px" width="400px"></a> |
+| <a href="https://github.com/bbak0105/Sogang_Task"><img height="250" width="500" alt="스크린샷 2024-03-12 오전 12 17 59" src="https://github.com/bbak0105/bbak0105/assets/66405572/15474bd0-8797-4a41-b843-2fedd3fa41aa"></a> | <a href="https://github.com/bbak0105/Clone_Movie_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/e07d3d91-d919-4b4a-9b0c-a11a6baff346" alt="movie_clone" height="250px"></a> |
+| `2022.03-2022.04` <br/> Firebase를 이용한 소셜 로그인 리액트 클론 코딩 | |
+| <a href="https://github.com/bbak0105/Clone_Twitter_React"><img src="https://github.com/bbak0105/bbak0105/assets/66405572/3c63d53e-ed1c-4098-b624-a618d9a95da9" alt="twitter_clone" height="250px" width="400px"></a> | |
 
 </div>

@@ -9,6 +9,15 @@
 `노션 포트폴리오`
   
 <hr/>
+
+<h3 align="center">
+<a href="https://github.com/bbak0105/Algorithm">💻 Algorithm 💻</a>
+</h3>
+
+`알고리즘`
+
+<hr/>
+
 <h3 align="center">
   <a href="https://github.com/bbak0105/LearnHub">📗 Learn Hub 📙</a>
 </h3>

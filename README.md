@@ -3,14 +3,6 @@
 ![rect](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Ji_Yu%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Introduce%20Ji_Yu's%20Portfolio%&descAlign=60&descAlignY=50)
 
 <h3 align="center">
-  <a href="https://guttural-maize-2be.notion.site/8d23537849474612b1a272eaa7028fc4?pvs=74">🙋🏻‍♀️ Notion Portfolio 🙋🏻‍♀️</a>
-</h3>
-
-`노션 포트폴리오`
-  
-<hr/>
-
-<h3 align="center">
 <a href="https://github.com/bbak0105/Algorithm">💻 Algorithm 💻</a>
 </h3>
 
@@ -24,6 +16,14 @@
 
 `서적이나 강의를 들으며 정리한 md파일 모음집`
 
+<hr/>
+
+<h3 align="center">
+  <a href="https://guttural-maize-2be.notion.site/8d23537849474612b1a272eaa7028fc4?pvs=74">🙋🏻‍♀️ Notion Portfolio 🙋🏻‍♀️</a>
+</h3>
+
+`노션 포트폴리오`
+  
 <hr/>
 
 <h3 align="center">Techs</h3>
